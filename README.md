@@ -1,5 +1,5 @@
 # CSE218_Lab2
-Topic: Raspberry Pi and Sensors
+Topic: Raspberry Pi and Sensors<br>
 Authors: Balaji Muthazhagan, Shikha Dixit
 ___
 
